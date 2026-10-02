@@ -7,8 +7,8 @@ window.PORTFOLIO_CONTENT = {
     "tagline": "Making data easier to understand.",
     "email": "olisemariachi@gmail.com",
     "portrait": "assets/sophia-portrait-cutout.webp",
-    "linkedin": "",
-    "github": "",
+    "linkedin": "https://www.linkedin.com/in/sophia-amarachi-olise-b50449396/",
+    "github": "https://github.com/Amarachi-Sophia",
     "yearsExperience": "5+",
     "intro": "I turn complex data into useful insights and clear visual stories that support better decisions.",
     "about": "I’m a data analyst with hands-on experience in Power BI, SQL and Excel. I clean and explore data, build dashboards, and explain what the numbers mean in plain language. I’ve also taught analytics and supported teams with data quality and reporting."
