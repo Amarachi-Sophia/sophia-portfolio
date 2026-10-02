@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>Portfolio content editor</title><link rel="stylesheet" href="editor.css"></head>
+<body><main><header><a href="../">← Portfolio</a><p class="eyebrow">SOPHIA / CONTENT STUDIO</p><h1>Keep your story current.</h1><p>Edit your content, download <strong>content.js</strong>, then replace that file in your GitHub repository. This editor does not publish automatically.</p></header>
+<div class="toolbar"><label class="import">Import content.js<input id="import" type="file" accept=".js,.json,application/json,text/javascript"></label><button type="button" id="export">Download content.js</button></div>
+<p class="notice">For new images, upload them to the repository’s <strong>assets</strong> folder and enter their path, for example <strong>assets/my-dashboard.webp</strong>. All screenshots in a project become a carousel. Empty optional sections stay hidden.</p>
+<p id="status" role="status">Loading portfolio content…</p><form id="editor" novalidate></form>
+<footer>Your edits stay in this tab until you download them. Import a previously downloaded file to continue editing.</footer></main><script src="../content.js"></script><script src="editor.js"></script></body></html>
